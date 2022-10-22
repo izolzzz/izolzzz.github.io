@@ -64,7 +64,7 @@ color: white; /* Firefox */
 	}
 
 .main {
-	max-height: 995px;
+	max-height: 1025px;
 	background-image: url(assets/coverbg.png);
 	background-position: top;
 	background-repeat: no-repeat;
@@ -77,22 +77,23 @@ color: white; /* Firefox */
 	}
 
 #brief {
+	padding-top: 30px;
 	margin-left: 30px;
-	margin-top: 0;
 	}
 
 	#brief p {
+		font-size: 18px;
 		padding-top: 7px;
 	}
 
 .covertext {
 	color: #fff;
-	padding-top: 350px;
+	padding-top: 300px;
 	text-align: center;
 }
 
 .row {
-	height: 500px;
+	height: 450px;
 }
 
 	.row#header {
@@ -100,7 +101,7 @@ color: white; /* Firefox */
 	}	
 
 .coverbtns {
-	padding-top: 100PX;
+	padding-top: 150PX;
 	text-align: center;
 }
 
